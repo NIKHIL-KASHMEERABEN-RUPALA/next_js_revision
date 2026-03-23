@@ -13,3 +13,10 @@ lab-19 conclusions--
 4) package.json contains the scripts and dependencies 
 
 5) layout.tsx wraps all the pages 
+
+
+6) jsx returns one parent element 
+
+7) components must start with capital letter 
+
+8) export default makes the component usable 
