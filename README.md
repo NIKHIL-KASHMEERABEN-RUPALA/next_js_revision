@@ -4,7 +4,7 @@
 date --- 23rd March , 2026
 
 lab-19 conclusions--
-1) Next.js has file based routing system 
+1) Next.js has file based routing system , defualt port number will be 3000
 
 2) Next.js has /app in which each folder is treated as a route 
 
