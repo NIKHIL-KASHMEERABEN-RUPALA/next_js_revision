@@ -13,4 +13,7 @@
 4) loading.js shows a fallback UI when a particular parallel route is loading
 
 
+5) parallel route use cases ---- conditional routes , tab groups , modals , loading.js etc
+
+
 
