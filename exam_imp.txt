@@ -1,0 +1,16 @@
+1) what does the route handler return 
+  it returns a json response object 
+
+2) which file doesnt use the "use client" component 
+  by default all files use "use server" and can also use "use server" 
+  BUT 
+  route.js files always use "use server"
+
+3) who introduced the network boundary 
+  introduced by team at META -- 
+    DAN ABRAMOV & SEBASTIAN MARKBAGE
+
+4) loading.js shows a fallback UI when a particular parallel route is loading
+
+
+
